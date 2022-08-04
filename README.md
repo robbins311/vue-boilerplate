@@ -1,5 +1,5 @@
 # frontend
-vue boilerplate
+vue boilerplate with storybook & vuetify
 
 ## Project setup
 ```
